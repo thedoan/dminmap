@@ -1,6 +1,6 @@
 # Privacy Policy for DMindMap
 
-**Last updated: [ĐIỀN NGÀY KHI PUBLISH]**
+**Last updated: August 9, 2026**
 
 DMindMap ("the App") is a mobile app that generates mind maps from a topic
 you type or a document you upload, using an AI model. This policy explains
